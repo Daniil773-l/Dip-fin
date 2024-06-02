@@ -25,7 +25,7 @@ function ReferralTracking() {
 					sx={{ width: '100%' }}
 					mb='40px'>
 					<VuiTypography variant='lg' color='white' mr='auto' fontWeight='bold'>
-						Контроль количества
+						Referral Tracking
 					</VuiTypography>
 					<VuiBox
 						display='flex'
@@ -83,7 +83,7 @@ function ReferralTracking() {
 								}
 							})}>
 							<VuiTypography color='text' variant='button' fontWeight='regular' mb='5px'>
-								Учителя
+								Invited
 							</VuiTypography>
 							<VuiTypography color='white' variant='lg' fontWeight='bold'>
 								145 people
@@ -106,7 +106,7 @@ function ReferralTracking() {
 								}
 							})}>
 							<VuiTypography color='text' variant='button' fontWeight='regular' mb='5px'>
-								Группы
+								Bonus
 							</VuiTypography>
 							<VuiTypography color='white' variant='lg' fontWeight='bold'>
 								1,465
